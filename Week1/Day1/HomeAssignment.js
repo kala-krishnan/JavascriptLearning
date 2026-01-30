@@ -1,9 +1,9 @@
-var userName = 'Kala Muthukrishnan'
-var organization = 'Financial Software and Systems INC'
-var contactNumber=1234567890
-var knowsAutomation = false
-var usesPlaywright
-console.log("aadhar Number "+userName)
+const userName = 'Kala Muthukrishnan'
+const organization = 'Financial Software and Systems INC'
+const contactNumber="1234567890"
+const knowsAutomation = false
+let usesPlaywright
+console.log("User Name "+userName)
 console.log("companyName "+organization)
 console.log("Mobile Number "+contactNumber)
 console.log("is Automation "+knowsAutomation)

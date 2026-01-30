@@ -1,5 +1,5 @@
 let browserName = 'Chrome'
-if(browserName == 'Chrome')
+if(browserName === 'Chrome')
 {
     console.log("Lanuching Chrome Browser")
 }
